@@ -1,12 +1,6 @@
-﻿void MethodOne()
-{
-    Console.WriteLine(1);
-}
-void MethodTwo()
-{
-    Console.WriteLine(2);
-}
-void MethodThree()
-{
-    Console.WriteLine(3);
-}
+﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("Welcome back again!!");
+Console.WriteLine("Welcome back again!!");
+Console.WriteLine("Welcome back again!!");
+Console.WriteLine("Welcome back again!!");
+Console.WriteLine("Welcome back again!!");
